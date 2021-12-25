@@ -1,2 +1,2 @@
-# goit-site
+site CV from Go IT marathon
  
